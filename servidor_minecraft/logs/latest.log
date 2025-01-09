@@ -339,3 +339,597 @@
 [00:42:14] [Server thread/WARN]: Spruce Boat (vehicle of luiscp) moved wrongly! 0.4524204557064877
 [00:42:15] [Server thread/WARN]: Spruce Boat (vehicle of luiscp) moved wrongly! 0.27035995866890516
 [00:42:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[00:43:05] [Server thread/INFO]: [Not Secure] <Emabuey> ya etsoy cp
+[00:43:10] [Server thread/INFO]: [Not Secure] <luiscp> ya
+[00:43:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8581ms or 171 ticks behind
+[00:43:18] [Server thread/INFO]: [Not Secure] <Emabuey> recien saliendo de mina
+[00:43:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9909ms or 198 ticks behind
+[00:43:51] [Server thread/INFO]: Leytter has made the advancement [Cover Me with Diamonds]
+[00:43:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3652ms or 73 ticks behind
+[00:43:59] [Server thread/WARN]: Vichoman14 moved wrongly!
+[00:44:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-48, y=99, z=-20} jh{x=6, y=94, z=-8}
+[00:44:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-48, y=99, z=-20} jh{x=5, y=96, z=-8}
+[00:44:04] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-48, y=99, z=-20} jh{x=5, y=96, z=-8}
+[00:44:46] [Server thread/INFO]: xXwhiterXx has made the advancement [We Need to Go Deeper]
+[00:44:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6420ms or 128 ticks behind
+[00:44:49] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 8.317029918323499,0.0,-6.236534797427041
+[00:44:49] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 8.649332014965395,0.0,-6.458316478539004
+[00:44:49] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 8.983030199123704,0.0,-6.677945442576302
+[00:44:49] [Server thread/WARN]: Jmat_2 moved too quickly! 9.480086283612081,-0.2468000194787976,3.5335639163830592
+[00:44:49] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 9.318074745817825,0.0,-6.895480730073189
+[00:44:49] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 9.654408854977575,0.0,-7.110995091162508
+[00:44:49] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 9.991975226284524,0.0,-7.32456372769505
+[00:44:49] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 10.33071435831043,0.0,-7.5362674567083445
+[00:44:49] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 10.670564895288095,0.0,-7.746192223413601
+[00:44:49] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 11.011465775773331,0.0,-7.954425297084313
+[00:44:49] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 11.353358125462435,0.0,-8.16105181569101
+[00:44:49] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 11.69618325033872,0.0,-8.36615839835899
+[00:44:49] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 12.03988451481662,0.0,-8.569829657530107
+[00:44:49] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 12.384407169426083,0.0,-8.772148423845493
+[00:44:49] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 12.729698203179225,0.0,-8.9731959410895
+[00:44:49] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 13.075708010015433,0.0,-9.173048662800952
+[00:44:49] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 13.422388252718662,0.0,-9.371782121311924
+[00:44:49] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 13.769691765835262,0.0,-9.569471034769663
+[00:44:49] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 14.117576059479859,0.0,-9.766182629015788
+[00:44:49] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 14.466001052463255,0.0,-9.96198077310595
+[00:44:49] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 14.814927054459233,0.0,-10.156929710590603
+[00:44:49] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 15.164318321823387,0.0,-10.351087247625117
+[00:44:49] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 15.514140871060249,0.0,-10.544508790448873
+[00:44:49] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 15.864362310258898,0.0,-10.737247589102239
+[00:44:49] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 16.214953479249715,0.0,-10.929351563032341
+[00:44:49] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 16.565886338290795,0.0,-11.120867226029333
+[00:44:49] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 16.91713385602519,0.0,-11.311839832380059
+[00:44:49] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 17.26867170050697,0.0,-11.502310107216303
+[00:44:49] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 17.620477965534832,0.0,-11.692314701293071
+[00:44:49] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 17.97253115483933,0.0,-11.881889994028441
+[00:44:49] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 18.324811914327924,0.0,-12.07106872503519
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.3043411563401719,0.0,-10.360404737387597
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.30634808612489905,0.0,-10.75980973847581
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.3076596266834031,0.0,-11.159271170575238
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.3089473916717793,0.0,-11.558786307485718
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.31075062420961785,0.0,-11.958344730956512
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.31350469351900756,0.0,-12.357931305263406
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.31755144926205503,0.0,-12.757528463172534
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.3231524059497133,0.0,-13.15711790195462
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.3305044548641831,0.0,-13.556681558454812
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.3390533623175429,0.0,-13.956242153546555
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.3476408483141995,0.0,-14.355836698656077
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.3553274010430414,0.0,-14.755471756481754
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.361363330889958,0.0,-15.155133571369788
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.3651547687342145,0.0,-15.55479552144726
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.3662443891388989,0.0,-15.9544237750099
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.36498660551995954,0.0,-16.354026511059757
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.3623899761022358,0.0,-16.753642140993136
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.35928223210783017,0.0,-17.153288769282682
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.3563433696700713,0.0,-17.552970471001146
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.35412023043107865,0.0,-17.952681768126226
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.35304738027923577,0.0,-18.352411159025905
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.35346595644102763,0.0,-18.752143643069346
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.355640661426321,0.0,-19.151862437708402
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.35906635232794315,0.0,-19.551582378808263
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.36262499688695016,0.0,-19.951327487878658
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.3654097747701144,0.0,-20.351095892597172
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.36669291589231534,0.0,-20.750868741735957
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.3659003573799282,0.0,-21.150616865139384
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.36258878792187943,0.0,-21.55030569109485
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.35712109741086806,0.0,-21.949948216224257
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.3505132975789138,0.0,-22.349590890720222
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.3442939983988822,0.0,-22.749268359747006
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.3397012810560227,0.0,-23.148965450164454
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.33771820652918905,0.0,-23.54863497853411
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.33841689007709874,0.0,-23.948260374255327
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.34113480311663125,0.0,-24.347868629578514
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.344612412501931,0.0,-24.747502745936245
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.3471286926315429,0.0,-25.14716873519447
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.3465999401816475,0.0,-25.546770456618844
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.34068383949295367,0.0,-25.946040315815807
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.3275557361598658,0.0,-26.34461458796116
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.30651304469012075,0.0,-26.742252563523564
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.27775129032835366,0.0,-27.138901751396972
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.24218370961114033,0.0,-27.53469656219272
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.20130036111584104,0.0,-27.929915448379887
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.15704430304174366,0.0,-28.32491043447709
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.11172424169467376,0.0,-28.720027422158765
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.0679285914370098,0.0,-29.115519470559263
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.02844731309744475,0.0,-29.511462251642314
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! 0.003802979339354806,0.0,-29.907675803092488
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! 0.025865110279937653,0.0,-30.30365726124029
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! 0.034823553237004035,0.0,-30.69852751050655
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! 0.02789114297775086,0.0,-31.090993736552306
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! 0.0025025195991474902,0.0,-31.479331679532862
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.04359228488885947,0.0,-31.861388359258953
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.11223695782194909,0.0,-32.23460549191279
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.20478129456324723,0.0,-32.596065880302234
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.32200616487898515,0.0,-32.94255610121995
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.4640551444882135,0.0,-33.27065601209347
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.6303882552865048,0.0,-33.57683601862048
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -0.8197524871710016,0.0,-33.857568365295265
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -1.0301728622293354,0.0,-34.10945669302906
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -1.2589701417166452,0.0,-34.329363053191784
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -1.502800902215597,0.0,-34.514527766505296
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -1.7577240956804303,0.0,-34.66269661214031
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -2.0192878314446148,0.0,-34.772226759418785
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -2.282638468853065,0.0,-34.842182692611175
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -2.5432193975181576,0.0,-34.87282161870016
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 18.67730282531778,0.0,-12.25988035810137
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -2.7969488944229397,0.0,-34.865309561464144
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 11.043816650995353,0.0,-6.435805747801808
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -2.7394900900437733,0.0,-24.86042424531847
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 11.396679008115143,0.0,-6.623966538791322
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -2.9695790096305927,0.0,-24.782529316606144
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -3.1840560170840604,0.0,-24.67311377747724
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 11.749705799428796,0.0,-6.811838238025047
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 12.102882354751188,0.0,-6.9994463572207195
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -3.38113192830383,0.0,-24.534845010830637
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 12.45619724787953,0.0,-7.186810455733621
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -3.559501061684557,0.0,-24.37041564574004
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 12.809638421993398,0.0,-7.373951534447812
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 13.163196799192889,0.0,-7.5608850985563265
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -3.718292758982841,0.0,-24.182467108175203
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -3.857696980615117,0.0,-23.973467578529224
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 13.516862432404835,0.0,-7.747628498334649
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -3.9787595115826093,0.0,-23.745610885476438
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -4.083207810914189,0.0,-23.500794700263683
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 13.870626372988895,0.0,-7.934197349030285
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 14.224480559718401,0.0,-8.120605706228261
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -4.173298225442295,0.0,-23.240652000204093
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -4.251005019568197,0.0,-22.966666177634153
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -4.318052096460747,0.0,-22.680183413063446
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 14.57841774121485,0.0,-8.30686621995477
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 14.93242961799956,0.0,-8.492993674560495
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 15.286510493780114,0.0,-8.678997974770638
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -4.375941634678497,0.0,-22.382424209615223
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 15.640655241893455,0.0,-8.864888034837648
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -4.425983758248435,0.0,-22.07449393421011
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 15.994857475104794,0.0,-9.05067527877857
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -4.469315632227733,0.0,-21.75739309439271
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -4.506926343877865,0.0,-21.43202643473846
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 16.34911321814114,0.0,-9.23636658701841
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of Vincen_EK0) moved too quickly! 16.703417120018713,0.0,-9.421971553129566
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -4.539675491151854,0.0,-21.099211593006117
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -4.568306096063168,0.0,-20.759687140269236
+[00:44:50] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -4.593463906054353,0.0,-20.41411978723201
+[00:45:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2953ms or 59 ticks behind
+[00:45:28] [Server thread/INFO]: [Not Secure] <Leytter> llegoo
+[00:45:29] [Server thread/INFO]: Emabuey has made the advancement [Cover Me with Diamonds]
+[00:45:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10289ms or 205 ticks behind
+[00:45:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2382ms or 47 ticks behind
+[00:46:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[00:46:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2307ms or 46 ticks behind
+[00:46:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2521ms or 50 ticks behind
+[00:47:09] [Server thread/INFO]: Vincen_EK0 has made the advancement [Suit Up]
+[00:47:31] [Server thread/INFO]: [Not Secure] <Emabuey> ya casi cp
+[00:47:33] [Server thread/INFO]: [Not Secure] <luiscp> ema ql
+[00:47:35] [Server thread/INFO]: [Not Secure] <luiscp> ypo
+[00:47:59] [Server thread/INFO]: [Not Secure] <Emabuey> me tuve q hacver un bote kll
+[00:48:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[00:48:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=522, y=64, z=354} jh{x=522, y=62, z=355}
+[00:48:16] [Server thread/INFO]: [Not Secure] <Leytter> YO
+[00:48:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[00:48:26] [Server thread/INFO]: [Not Secure] <Emabuey> veo la
+[00:48:28] [Server thread/INFO]: [Not Secure] <Emabuey> iglesiooa
+[00:48:34] [Server thread/INFO]: [Not Secure] <Emabuey> vebn
+[00:48:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3493ms or 69 ticks behind
+[00:48:49] [Server thread/INFO]: [Not Secure] <Emabuey> brooo
+[00:48:52] [Server thread/INFO]: xFACKSGAMERx lost connection: Timed out
+[00:48:52] [Server thread/INFO]: xFACKSGAMERx left the game
+[00:49:07] [Server thread/INFO]: xFACKSGAMERx[/127.143.108.247:60375] logged in with entity id 106583 at (-459.7283155069272, 62.110764312744145, -660.4976710430009)
+[00:49:07] [Server thread/INFO]: xFACKSGAMERx joined the game
+[00:49:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2844ms or 56 ticks behind
+[00:49:12] [Server thread/INFO]: [Not Secure] <Emabuey> luis
+[00:49:20] [Server thread/INFO]: [Not Secure] <luiscp> ah
+[00:49:22] [Server thread/INFO]: [Not Secure] <Emabuey> ven
+[00:49:24] [Server thread/INFO]: [Not Secure] <Emabuey> ya llegue
+[00:49:26] [Server thread/INFO]: Jmat_2 has made the advancement [Sweet Dreams]
+[00:49:31] [Server thread/INFO]: [Not Secure] <Jmat_2> duerman
+[00:49:34] [Server thread/INFO]: [Not Secure] <luiscp> yap
+[00:49:37] [Server thread/INFO]: xFACKSGAMERx lost connection: Disconnected
+[00:49:37] [Server thread/INFO]: xFACKSGAMERx left the game
+[00:49:38] [Server thread/INFO]: [Not Secure] <Jmat_2> o salgan
+[00:49:43] [Server thread/INFO]: [Not Secure] <Emabuey> BROOOO
+[00:49:45] [Server thread/INFO]: [Not Secure] <luiscp> q mrd
+[00:49:50] [Server thread/INFO]: Leytter has made the advancement [Sweet Dreams]
+[00:49:54] [Server thread/INFO]: xFACKSGAMERx[/127.143.108.247:35959] logged in with entity id 108257 at (-469.61694734952084, 62.110764312744145, -674.4180481326114)
+[00:49:54] [Server thread/INFO]: xFACKSGAMERx joined the game
+[00:49:55] [Server thread/INFO]: luiscp has made the advancement [Diamonds!]
+[00:49:55] [Server thread/INFO]: [Not Secure] <Leytter> mimir
+[00:50:04] [Server thread/INFO]: [Not Secure] <Emabuey> oluois
+[00:50:06] [Server thread/INFO]: [Not Secure] <Leytter> o los mimimos
+[00:50:07] [Server thread/INFO]: [Not Secure] <Emabuey> dame 2 diamantes mas
+[00:50:13] [Server thread/INFO]: luiscp has made the advancement [Cover Me with Diamonds]
+[00:50:13] [Server thread/INFO]: [Not Secure] <Emabuey> luis
+[00:50:13] [Server thread/INFO]: [Not Secure] <Emabuey> dame 2 diamantes mas
+[00:50:14] [Server thread/INFO]: [Not Secure] <Emabuey> dame 2 diamantes mas
+[00:50:14] [Server thread/INFO]: [Not Secure] <Emabuey> dame 2 diamantes mas
+[00:50:14] [Server thread/INFO]: [Not Secure] <Emabuey> dame 2 diamantes mas
+[00:50:15] [Server thread/INFO]: [Not Secure] <Emabuey> dame 2 diamantes mas
+[00:50:20] [Server thread/INFO]: [Not Secure] <Emabuey> pa la mesa de enchants
+[00:50:24] [Server thread/WARN]: Spruce Boat (vehicle of PATRIX139) moved too quickly! -1.5239615891077847,0.0,-10.286498179184377
+[00:50:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[00:50:31] [Server thread/INFO]: [Not Secure] <Emabuey> dame 2 diamantes mas
+[00:50:37] [Server thread/INFO]: PATRIX139 lost connection: Disconnected
+[00:50:37] [Server thread/INFO]: PATRIX139 left the game
+[00:50:40] [Server thread/INFO]: [Not Secure] <Emabuey> gracias
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -7.099547715688004,0.0,-7.1572925205115325
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -7.451259216542553,0.0,-7.112177709081948
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -7.80470316751655,0.0,-7.0561431229060645
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -8.15974467542037,0.0,-6.990372778603728
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -8.516259181065664,0.0,-6.915925295009288
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -8.87413002143063,0.0,-6.833742865056365
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -9.232979832648766,0.0,-6.744022523762624
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -9.59219714536556,0.0,-6.646369873955109
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -9.950932731058856,0.0,-6.539935109250791
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -10.308086136234238,0.0,-6.423550118898788
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -10.662284894450465,0.0,-6.2958528954136455
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -11.011867081879132,0.0,-6.155407641202146
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -11.354875466976296,0.0,-6.000823155638841
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -11.68905643427587,0.0,-5.830857142668833
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -12.012461214568646,0.0,-5.644912843683642
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -12.32346791382389,0.0,-5.442888777869484
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -12.620777149045864,0.0,-5.225051460157374
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -12.90339666993384,0.0,-4.991933587873291
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -8.44740443578263,0.0,5.865674249128119
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -8.557576734062422,0.0,6.219293218293956
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -8.653124184058981,0.0,6.577387262514662
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -8.733699460195453,0.0,6.939303338736522
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -8.799182335535647,0.0,7.304404322053188
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -8.849637476539215,0.0,7.6720861036719725
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -8.884596827555924,0.0,8.041610469661123
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -8.903200242503942,0.0,8.412058772711362
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -8.90431414877645,0.0,8.782282462041962
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -8.88726373438277,0.0,9.151178193950386
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -8.851756951041295,0.0,9.51773166537123
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -8.797801741069406,0.0,9.881036954961473
+[00:50:51] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -8.725642620599785,0.0,10.240308249009104
+[00:50:56] [Server thread/INFO]: [Not Secure] <Emabuey> necesitamos los enchants e ir al nether
+[00:50:58] [Server thread/INFO]: Vincen_EK0 was impaled by Drowned
+[00:51:04] [Server thread/INFO]: Vincen_EK0 lost connection: Disconnected
+[00:51:04] [Server thread/INFO]: Vincen_EK0 left the game
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -26.61499472081266,0.0,-105.87230374832927
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -26.61499472081266,0.0,-105.87230374832927
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -26.61499472081266,0.0,-105.87230374832927
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -26.61499472081266,0.0,-105.87230374832927
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -26.61499472081266,0.0,-105.87230374832927
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -26.61499472081266,0.0,-105.87230374832927
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -26.61499472081266,0.0,-105.87230374832927
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -26.61499472081266,0.0,-105.87230374832927
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -26.61499472081266,0.0,-105.87230374832927
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -26.61499472081266,0.0,-105.87230374832927
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -26.61499472081266,0.0,-105.87230374832927
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -26.61499472081266,0.0,-105.87230374832927
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -26.61499472081266,0.0,-105.87230374832927
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -26.61499472081266,0.0,-105.87230374832927
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -26.61499472081266,0.0,-105.87230374832927
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -26.61499472081266,0.0,-105.87230374832927
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -26.61499472081266,0.0,-105.87230374832927
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -26.61499472081266,0.0,-105.87230374832927
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -34.9382176162091,0.0,-100.3551302057408
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -34.9382176162091,0.0,-100.3551302057408
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -34.9382176162091,0.0,-100.3551302057408
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -34.9382176162091,0.0,-100.3551302057408
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -34.9382176162091,0.0,-100.3551302057408
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -34.9382176162091,0.0,-100.3551302057408
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -34.9382176162091,0.0,-100.3551302057408
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -34.9382176162091,0.0,-100.3551302057408
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -34.9382176162091,0.0,-100.3551302057408
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -34.9382176162091,0.0,-100.3551302057408
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -34.9382176162091,0.0,-100.3551302057408
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -34.9382176162091,0.0,-100.3551302057408
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -34.9382176162091,0.0,-100.3551302057408
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -34.69523473111548,0.0,-100.32928612265346
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -35.01227358774338,0.0,-100.26030529019954
+[00:51:05] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -34.811231982429604,0.0,-100.16351040215227
+[00:51:06] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -34.625508511585394,0.0,-100.03668282204
+[00:51:06] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -34.452067441215945,0.0,-99.88303624653304
+[00:51:06] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -34.28833619850951,0.0,-99.70549035363956
+[00:51:06] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -34.13214295546885,0.0,-99.50668784779054
+[00:51:06] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -33.98166022926699,0.0,-99.28901328728818
+[00:51:06] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -33.83535413700389,0.0,-99.05461297943873
+[00:51:06] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -33.69194989201236,0.0,-98.80541202190375
+[00:51:06] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -33.55038979724907,0.0,-98.54313443063984
+[00:51:06] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -33.40979937791087,0.0,-98.2693218585407
+[00:51:06] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -33.26946794534456,0.0,-97.98534778980752
+[00:51:06] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -33.12882038224933,0.0,-97.69243488581367
+[00:51:06] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -32.98739557430173,0.0,-97.3916701903255
+[00:51:06] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -32.844830717389186,0.0,-97.084017990912
+[00:51:06] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -32.70084377616712,0.0,-96.77033330901179
+[00:51:06] [Server thread/INFO]: [Not Secure] <Emabuey> hare la granja de aldeanos rapida
+[00:51:07] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -32.55522487632635,0.0,-96.45137142956503
+[00:51:07] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -32.407818099812744,0.0,-96.12780135781213
+[00:51:07] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -32.25851923148281,0.0,-95.80021200720034
+[00:51:07] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -32.10725981340926,0.0,-95.4691242467801
+[00:51:07] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -31.9540068064357,0.0,-95.13499554125247
+[00:51:07] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -31.798755350948113,0.0,-94.79822742016836
+[00:51:07] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -31.641522314899362,0.0,-94.4591723380438
+[00:51:07] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -31.48234053173462,0.0,-94.11813995277146
+[00:51:07] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -31.33907693068153,0.0,-93.81121081415722
+[00:51:07] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -31.210139693149415,0.0,-93.53497459672212
+[00:51:07] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -31.094096182444616,0.0,-93.2863620076165
+[00:51:07] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -30.987462221437568,0.0,-93.05811836322857
+[00:51:07] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -30.889434384502863,0.0,-92.84814213527977
+[00:51:07] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -30.7993585353384,0.0,-92.65451887205893
+[00:51:07] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -30.70565564292292,0.0,-92.44230699562115
+[00:51:07] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -30.61135479564979,0.0,-92.21257924952181
+[00:51:07] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -30.519641781622568,0.0,-91.96641448959622
+[00:51:07] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -30.433805748079294,0.0,-91.70500241649017
+[00:51:07] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -30.357170722658964,0.0,-91.42973632246765
+[00:51:07] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -30.292333552995387,0.0,-91.1422110792987
+[00:51:07] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -30.241256450148057,0.0,-90.84410575022753
+[00:51:07] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -30.205351836721377,0.0,-90.53709791202732
+[00:51:07] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -30.185566745737958,0.0,-90.22280372961609
+[00:51:07] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -30.18246674615557,0.0,-89.90274063428171
+[00:51:07] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -30.196299055246982,0.0,-89.57830118466609
+[00:51:07] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -30.227053846410342,0.0,-89.25074024441028
+[00:51:07] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -30.274522449269853,0.0,-88.92117358972655
+[00:51:07] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -30.33833867310375,0.0,-88.59057798241622
+[00:51:07] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -30.418015210029353,0.0,-88.25979594807814
+[00:51:08] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -30.512978497069867,0.0,-87.92954627165409
+[00:51:08] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -30.622589525227852,0.0,-87.60043013536153
+[00:51:08] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -30.746170899262438,0.0,-87.27294587410188
+[00:51:08] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -30.883020997231426,0.0,-86.94749744784133
+[00:51:08] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -31.032426064015567,0.0,-86.62440342089542
+[00:51:08] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -31.19367331948854,0.0,-86.30390875553758
+[00:51:08] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -31.36656850500566,0.0,-85.98667677473088
+[00:51:08] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -31.551291714824515,0.0,-85.6737423136708
+[00:51:08] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -31.748265023645274,0.0,-85.36648622312396
+[00:51:08] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -31.958026545294615,0.0,-85.0666171740412
+[00:51:08] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -32.18110329638222,0.0,-84.77614133236034
+[00:51:08] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -32.41790137060303,0.0,-84.49733749708128
+[00:51:08] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -32.66859931348034,0.0,-84.23271122726555
+[00:51:08] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -32.933057419747115,0.0,-83.98494374764766
+[00:51:08] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -33.21074006470002,0.0,-83.7568283104672
+[00:51:08] [Server thread/WARN]: Spruce Boat (vehicle of xFACKSGAMERx) moved too quickly! -33.500640937191065,0.0,-83.55048526738312
+[00:51:25] [Server thread/INFO]: xXwhiterXx has completed the challenge [Return to Sender]
+[00:51:44] [Server thread/INFO]: [Not Secure] <luiscp> ema
+[00:51:47] [Server thread/INFO]: [Not Secure] <Emabuey> q
+[00:51:56] [Server thread/INFO]: [Not Secure] <luiscp> ayudame con los aldeanos
+[00:51:58] [Server thread/INFO]: [Not Secure] <Emabuey> ya
+[00:52:09] [Server thread/INFO]: [Not Secure] <Emabuey> dale
+[00:52:11] [Server thread/INFO]: [Not Secure] <Emabuey> bro
+[00:52:17] [Server thread/INFO]: [Not Secure] <Emabuey> es solo meter las camas alla dentro
+[00:52:20] [Server thread/INFO]: [Not Secure] <Emabuey> y los aldeanos iran
+[00:52:37] [Server thread/INFO]: [Jmat_2: Banned xXwhiterXx: Banned by an operator.]
+[00:52:37] [Server thread/INFO]: xXwhiterXx lost connection: You are banned from this server
+[00:52:37] [Server thread/INFO]: xXwhiterXx left the game
+[00:52:37] [Server thread/WARN]: handleDisconnection() called twice
+[00:52:41] [Server thread/INFO]: [Not Secure] <Leytter> XD
+[00:52:45] [Server thread/INFO]: Disconnecting xXwhiterXx (/127.60.253.97:43047): You are banned from this server.
+Reason: Banned by an operator.
+[00:52:45] [Server thread/INFO]: xXwhiterXx (/127.60.253.97:43047) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[00:52:45] [Server thread/WARN]: handleDisconnection() called twice
+[00:53:11] [Server thread/INFO]: Disconnecting xXwhiterXx (/127.60.253.97:34047): You are banned from this server.
+Reason: Banned by an operator.
+[00:53:11] [Server thread/INFO]: xXwhiterXx (/127.60.253.97:34047) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[00:53:11] [Server thread/WARN]: handleDisconnection() called twice
+[00:53:26] [Server thread/INFO]: [Not Secure] <xFACKSGAMERx> eu que paso q lo banearon
+[00:53:32] [Server thread/INFO]: [Not Secure] <Emabuey> a el wiher
+[00:53:33] [Server thread/INFO]: [Not Secure] <Emabuey> ?
+[00:53:37] [Server thread/INFO]: [Not Secure] <xFACKSGAMERx> si
+[00:53:44] [Server thread/INFO]: [Not Secure] <Emabuey> se salio pq se iba a moriri
+[00:53:46] [Server thread/INFO]: Disconnecting xXwhiterXx (/127.60.253.97:37167): You are banned from this server.
+Reason: Banned by an operator.
+[00:53:46] [Server thread/INFO]: xXwhiterXx (/127.60.253.97:37167) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[00:53:46] [Server thread/WARN]: handleDisconnection() called twice
+[00:53:54] [Server thread/INFO]: [Not Secure] <xFACKSGAMERx> cualquiera
+[00:54:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:54:00] [Server thread/INFO]: unban xXwhiterXx<--[HERE]
+[00:54:01] [Server thread/INFO]: [Not Secure] <xFACKSGAMERx> si estoy en llamda con el
+[00:54:10] [Server thread/INFO]: [Not Secure] <Emabuey> oh
+[00:54:13] [Server thread/INFO]: [Not Secure] <Emabuey> no tengo idea
+[00:54:22] [Server thread/INFO]: /advancement (grant|revoke)
+[00:54:22] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[00:54:22] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[00:54:22] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[00:54:22] [Server thread/INFO]: /clear [<targets>]
+[00:54:22] [Server thread/INFO]: /clone (<begin>|from)
+[00:54:22] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
+[00:54:22] [Server thread/INFO]: /data (merge|get|remove|modify)
+[00:54:22] [Server thread/INFO]: /datapack (enable|disable|list)
+[00:54:22] [Server thread/INFO]: /debug (start|stop|function)
+[00:54:22] [Server thread/INFO]: /defaultgamemode <gamemode>
+[00:54:22] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[00:54:22] [Server thread/INFO]: /effect (clear|give)
+[00:54:22] [Server thread/INFO]: /me <action>
+[00:54:22] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[00:54:22] [Server thread/INFO]: /experience (add|set|query)
+[00:54:22] [Server thread/INFO]: /xp -> experience
+[00:54:22] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[00:54:22] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
+[00:54:22] [Server thread/INFO]: /forceload (add|remove|query)
+[00:54:22] [Server thread/INFO]: /function <name> [<arguments>|with]
+[00:54:22] [Server thread/INFO]: /gamemode <gamemode> [<target>]
+[00:54:22] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disablePlayerMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnChunkRadius|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[00:54:22] [Server thread/INFO]: /give <targets> <item> [<count>]
+[00:54:22] [Server thread/INFO]: /help [<command>]
+[00:54:22] [Server thread/INFO]: /item (replace|modify)
+[00:54:22] [Server thread/INFO]: /kick <targets> [<reason>]
+[00:54:22] [Server thread/INFO]: /kill [<targets>]
+[00:54:22] [Server thread/INFO]: /list [uuids]
+[00:54:22] [Server thread/INFO]: /locate (structure|biome|poi)
+[00:54:22] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[00:54:22] [Server thread/INFO]: /msg <targets> <message>
+[00:54:22] [Server thread/INFO]: /tell -> msg
+[00:54:22] [Server thread/INFO]: /w -> msg
+[00:54:22] [Server thread/INFO]: /particle <name> [<pos>]
+[00:54:22] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
+[00:54:22] [Server thread/INFO]: /playsound <sound> [master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[00:54:22] [Server thread/INFO]: /random (value|roll|reset)
+[00:54:22] [Server thread/INFO]: /reload
+[00:54:22] [Server thread/INFO]: /recipe (give|take)
+[00:54:22] [Server thread/INFO]: /return (<value>|fail|run)
+[00:54:22] [Server thread/INFO]: /ride <target> (mount|dismount)
+[00:54:22] [Server thread/INFO]: /rotate <target> (<rotation>|facing)
+[00:54:22] [Server thread/INFO]: /say <message>
+[00:54:22] [Server thread/INFO]: /schedule (function|clear)
+[00:54:22] [Server thread/INFO]: /scoreboard (objectives|players)
+[00:54:22] [Server thread/INFO]: /seed
+[00:54:22] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[00:54:22] [Server thread/INFO]: /spawnpoint [<targets>]
+[00:54:22] [Server thread/INFO]: /setworldspawn [<pos>]
+[00:54:22] [Server thread/INFO]: /spectate [<target>]
+[00:54:22] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[00:54:22] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[00:54:22] [Server thread/INFO]: /summon <entity> [<pos>]
+[00:54:22] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[00:54:22] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[00:54:22] [Server thread/INFO]: /teammsg <message>
+[00:54:22] [Server thread/INFO]: /tm -> teammsg
+[00:54:22] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[00:54:22] [Server thread/INFO]: /tp -> teleport
+[00:54:22] [Server thread/INFO]: /tellraw <targets> <message>
+[00:54:22] [Server thread/INFO]: /tick (query|rate|step|sprint|unfreeze|freeze)
+[00:54:22] [Server thread/INFO]: /time (set|add|query)
+[00:54:22] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[00:54:22] [Server thread/INFO]: /trigger <objective> [add|set]
+[00:54:22] [Server thread/INFO]: /weather (clear|rain|thunder)
+[00:54:22] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[00:54:22] [Server thread/INFO]: /jfr (start|stop)
+[00:54:22] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[00:54:22] [Server thread/INFO]: /banlist [ips|players]
+[00:54:22] [Server thread/INFO]: /ban <targets> [<reason>]
+[00:54:22] [Server thread/INFO]: /deop <targets>
+[00:54:22] [Server thread/INFO]: /op <targets>
+[00:54:22] [Server thread/INFO]: /pardon <targets>
+[00:54:22] [Server thread/INFO]: /pardon-ip <target>
+[00:54:22] [Server thread/INFO]: /perf (start|stop)
+[00:54:22] [Server thread/INFO]: /save-all [flush]
+[00:54:22] [Server thread/INFO]: /save-off
+[00:54:22] [Server thread/INFO]: /save-on
+[00:54:22] [Server thread/INFO]: /setidletimeout <minutes>
+[00:54:22] [Server thread/INFO]: /stop
+[00:54:22] [Server thread/INFO]: /transfer <hostname> [<port>]
+[00:54:22] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[00:54:27] [Server thread/INFO]: [Not Secure] <Emabuey> q wea asi
+[00:54:34] [Server thread/INFO]: [Not Secure] <Emabuey> porque tam refinado
+[00:54:35] [Server thread/INFO]: [Not Secure] <Emabuey> son esclavos
+[00:54:40] [Server thread/INFO]: [Not Secure] <luiscp> pq sip
+[00:54:41] [Server thread/INFO]: Disconnecting xXwhiterXx (/127.60.253.97:41099): You are banned from this server.
+Reason: Banned by an operator.
+[00:54:41] [Server thread/INFO]: xXwhiterXx (/127.60.253.97:41099) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[00:54:41] [Server thread/WARN]: handleDisconnection() called twice
+[00:54:52] [Server thread/INFO]: [Not Secure] <Emabuey> empezare con ñla granja
+[00:54:52] [Server thread/INFO]: [Not Secure] <xFACKSGAMERx> jmat
+[00:55:14] [Server thread/INFO]: Emabuey has made the advancement [Sweet Dreams]
+[00:55:27] [Server thread/INFO]: Disconnecting xXwhiterXx (/127.60.253.97:52803): You are banned from this server.
+Reason: Banned by an operator.
+[00:55:27] [Server thread/INFO]: xXwhiterXx (/127.60.253.97:52803) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[00:55:27] [Server thread/WARN]: handleDisconnection() called twice
+[00:56:00] [Server thread/INFO]: [Not Secure] <Emabuey> tremendo lag
+[00:57:04] [Server thread/INFO]: Vichoman14 has made the advancement [Isn't It Iron Pick]
+[00:57:09] [Server thread/INFO]: Disconnecting xXwhiterXx (/127.60.253.97:45891): You are banned from this server.
+Reason: Banned by an operator.
+[00:57:09] [Server thread/INFO]: xXwhiterXx (/127.60.253.97:45891) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[00:57:09] [Server thread/WARN]: handleDisconnection() called twice
+[00:58:06] [Server thread/INFO]: Disconnecting xXwhiterXx (/127.60.253.97:40721): You are banned from this server.
+Reason: Banned by an operator.
+[00:58:06] [Server thread/INFO]: xXwhiterXx (/127.60.253.97:40721) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[00:58:06] [Server thread/WARN]: handleDisconnection() called twice
+[00:58:18] [Server thread/INFO]: [Not Secure] <Emabuey> esos dos los necesitare luis
+[00:58:39] [Server thread/INFO]: Disconnecting xXwhiterXx (/127.60.253.97:44659): You are banned from this server.
+Reason: Banned by an operator.
+[00:58:39] [Server thread/INFO]: xXwhiterXx (/127.60.253.97:44659) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[00:58:39] [Server thread/WARN]: handleDisconnection() called twice
+[00:58:42] [Server thread/INFO]: [Not Secure] <luiscp> atrs
+[00:58:43] [Server thread/INFO]: Emabuey has made the advancement [Not Today, Thank You]
+[00:58:48] [Server thread/INFO]: [Jmat_2: Unbanned xXwhiterXx]
+[00:58:49] [Server thread/INFO]: [Not Secure] <luiscp> ema
+[00:59:04] [Server thread/INFO]: xXwhiterXx[/127.60.253.97:52541] logged in with entity id 119133 at (-20.963887647601474, 86.02442408821369, 142.80398433317185)
+[00:59:04] [Server thread/INFO]: xXwhiterXx joined the game
+[00:59:12] [Server thread/INFO]: Jmat_2 was shot by Skeleton
+[00:59:15] [Server thread/INFO]: Vichoman14 has made the advancement [Diamonds!]
+[00:59:16] [Server thread/INFO]: [Not Secure] <Emabuey> me muero
+[00:59:18] [Server thread/INFO]: [Not Secure] <Emabuey> WAHT
+[00:59:20] [Server thread/INFO]: [Not Secure] <Emabuey> VISTE LUIS
+[00:59:28] [Server thread/INFO]: [Not Secure] <Emabuey> LES CAYO UN RAYOL
+[00:59:33] [Server thread/INFO]: Leytter has made the advancement [Ice Bucket Challenge]
+[00:59:41] [Server thread/INFO]: [Not Secure] <Emabuey> tienes comida
+[01:00:17] [Server thread/INFO]: [Not Secure] <Emabuey> luois
+[01:00:21] [Server thread/INFO]: [Not Secure] <luiscp> ah
+[01:00:25] [Server thread/INFO]: [Not Secure] <Emabuey> mira ese creeper
+[01:00:34] [Server thread/INFO]: [Not Secure] <luiscp> donde
+[01:00:37] [Server thread/INFO]: [Not Secure] <Emabuey> mira
+[01:00:43] [Server thread/INFO]: Vichoman14 was shot by Skeleton
+[01:00:54] [Server thread/INFO]: Villager cpj['Villager'/116357, l='ServerLevel[world]', x=-385.30, y=64.00, z=695.70] died, message: 'Villager was slain by Zombie'
+[01:00:56] [Server thread/INFO]: [Not Secure] <Emabuey> desaparecio
+[01:01:18] [Server thread/INFO]: xFACKSGAMERx has made the advancement [We Need to Go Deeper]
+[01:01:37] [Server thread/INFO]: [Not Secure] <Emabuey> dame comida
+[01:01:46] [Server thread/INFO]: [Not Secure] <Leytter> ETF
+[01:01:50] [Server thread/INFO]: [Not Secure] <Emabuey> estoy a nada de vida
+[01:03:05] [Server thread/INFO]: [Not Secure] <Emabuey> cp
+[01:03:15] [Server thread/INFO]: [Not Secure] <Emabuey> cp
+[01:03:18] [Server thread/INFO]: [Not Secure] <Emabuey> toma
+[01:03:18] [Server thread/INFO]: [Not Secure] <luiscp> q
+[01:03:25] [Server thread/INFO]: [Not Secure] <Emabuey> haz q sea pedernal
+[01:03:54] [Server thread/INFO]: [Not Secure] <Emabuey> no mates a los golem
+[01:04:02] [Server thread/INFO]: [Not Secure] <Emabuey> aun np
+[01:04:11] [Server thread/INFO]: xFACKSGAMERx lost connection: Timed out
+[01:04:11] [Server thread/INFO]: xFACKSGAMERx left the game
+[01:04:30] [Server thread/INFO]: Jmat_2 has made the advancement [The Parrots and the Bats]
+[01:04:38] [Server thread/INFO]: xFACKSGAMERx[/127.143.108.247:53843] logged in with entity id 124654 at (-144.3036195513508, 91.0, -79.74199019386164)
+[01:04:38] [Server thread/INFO]: xFACKSGAMERx joined the game
+[01:04:51] [Server thread/INFO]: [Not Secure] <Emabuey> dame pedernal
+[01:04:58] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
+[01:04:58] [Server thread/INFO]: Jmat_2 left the game
+[01:05:07] [Server thread/INFO]: [Not Secure] <Emabuey> si
+[01:05:22] [Server thread/INFO]: [Not Secure] <Emabuey> bro
+[01:05:26] [Server thread/INFO]: [Not Secure] <luiscp> a
+[01:05:26] [Server thread/INFO]: [Not Secure] <Emabuey> hace pedernal
+[01:06:01] [Server thread/INFO]: [Not Secure] <Emabuey> pa q
+[01:06:11] [Server thread/INFO]: [Not Secure] <luiscp> te l0o di
+[01:06:11] [Server thread/INFO]: [Not Secure] <Emabuey> pedernal me refiero
+[01:06:16] [Server thread/INFO]: [Not Secure] <Emabuey> pa las mesas de flechereo
+[01:06:17] [Server thread/INFO]: Jmat_2[/127.31.58.135:58267] logged in with entity id 126343 at (1956.5408097472198, 64.70386799395752, 896.5690844109168)
+[01:06:17] [Server thread/INFO]: Jmat_2 joined the game
+[01:06:23] [Server thread/INFO]: [Not Secure] <luiscp> aslo tu
+[01:06:27] [Server thread/INFO]: [Not Secure] <Emabuey> padsalo
+[01:07:37] [Server thread/INFO]: Rubentutumazho fell from a high place
+[01:07:50] [Server thread/INFO]: [Not Secure] <Emabuey> wn tonto jsjsj
+[01:07:58] [Server thread/INFO]: [Not Secure] <xFACKSGAMERx> -50 87 83
+[01:08:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=2075, y=71, z=866} jh{x=2075, y=69, z=866}
+[01:08:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=2075, y=71, z=866} jh{x=2075, y=69, z=866}
+[01:08:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=2077, y=71, z=865} jh{x=2075, y=69, z=866}
+[01:08:10] [Server thread/INFO]: Jmat_2 has made the advancement [A Seedy Place]
+[01:08:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2166ms or 43 ticks behind
+[01:08:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1970, y=69, z=896} jh{x=1973, y=69, z=896}
+[01:08:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1970, y=69, z=896} jh{x=1973, y=69, z=896}
+[01:08:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1970, y=69, z=899} jh{x=1971, y=69, z=898}
+[01:08:49] [Server thread/INFO]: xXwhiterXx has completed the challenge [Hot Tourist Destinations]
+[01:09:00] [Server thread/INFO]: [Not Secure] <luiscp> ya
+[01:09:11] [Server thread/INFO]: [Not Secure] <luiscp> pero oye ema
+[01:09:14] [Server thread/INFO]: [Not Secure] <Emabuey> q
+[01:09:20] [Server thread/INFO]: [Not Secure] <Emabuey> habla por msg
+[01:09:24] [Server thread/INFO]: [Not Secure] <luiscp> asemos algo con los aldeanos
+[01:09:27] [Server thread/INFO]: [Not Secure] <Emabuey> sipo
+[01:09:30] [Server thread/INFO]: [Not Secure] <Emabuey> enchants
+[01:10:10] [Server thread/INFO]: [Not Secure] <Emabuey> pon spaqwn aqui
+[01:10:24] [Server thread/INFO]: Rubentutumazho has made the advancement [Ice Bucket Challenge]
+[01:10:42] [Server thread/INFO]: xXwhiterXx has made the advancement [A Terrible Fortress]
+[01:11:01] [Server thread/INFO]: Vichoman14 has made the advancement [Cover Me with Diamonds]
+[01:11:18] [Server thread/INFO]: Villager cpj['Cleric'/43189, l='ServerLevel[world]', x=620.10, y=72.00, z=307.70] died, message: 'Cleric was slain by Zombie'
+[01:12:01] [Server thread/INFO]: Emabuey has made the advancement [What a Deal!]
+[01:12:04] [Server thread/INFO]: [Not Secure] <Vichoman14> zzzzzzzzzzzzzzzzz
+[01:12:08] [Server thread/INFO]: [Not Secure] <Jmat_2> DUERMAN
+[01:12:10] [Server thread/INFO]: [Not Secure] <Jmat_2> zzz
+[01:12:12] [Server thread/INFO]: [Not Secure] <Leytter> zzz
+[01:12:32] [Server thread/INFO]: [Not Secure] <Emabuey> duerme luisa
+[01:12:33] [Server thread/INFO]: [Not Secure] <luiscp> ema comida
+[01:12:44] [Server thread/INFO]: [Not Secure] <Vichoman14> zzzzzzzzzz
+[01:12:45] [Server thread/INFO]: [Not Secure] <Leytter> los 2 tortolitos
+[01:13:01] [Server thread/INFO]: [Not Secure] <Emabuey> q
+[01:13:07] [Server thread/INFO]: [Not Secure] <Vichoman14> oe si no van a dormir salgan y vuelvan a entrar
+[01:13:09] [Server thread/INFO]: [Not Secure] <Jmat_2> salgan los demás
+[01:13:10] [Server thread/INFO]: [Not Secure] <Jmat_2> porfa
+[01:13:15] [Server thread/INFO]: [Not Secure] <Jmat_2> para dormir
+[01:13:27] [Server thread/INFO]: [Not Secure] <Emabuey> duerman
+[01:13:29] [Server thread/INFO]: [Not Secure] <Emabuey> oh si
+[01:13:36] [Server thread/INFO]: [Not Secure] <xFACKSGAMERx> no
+[01:13:39] [Server thread/INFO]: [Not Secure] <Emabuey> duerme luisa
+[01:13:49] [Server thread/INFO]: [Not Secure] <Emabuey> en la mañana seguimso bb
