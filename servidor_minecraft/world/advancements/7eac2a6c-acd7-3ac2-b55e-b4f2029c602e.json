@@ -389,6 +389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-01-09 01:31:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-09 00:31:34 +0000"
@@ -536,6 +542,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-01-09 00:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-01-09 01:31:49 +0000"
     },
     "done": true
   },
@@ -707,6 +719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-01-09 01:31:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-01-09 00:49:55 +0000"
@@ -715,7 +733,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-01-09 00:37:03 +0000"
+      "minecraft:skeleton": "2025-01-09 00:37:03 +0000",
+      "minecraft:zombie": "2025-01-09 01:29:03 +0000"
     },
     "done": false
   },
@@ -788,6 +807,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-09 00:27:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-09 01:31:49 +0000"
     },
     "done": true
   },
@@ -911,6 +936,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-01-09 00:37:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-01-09 01:31:49 +0000"
     },
     "done": true
   },
@@ -1054,6 +1085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-01-09 01:31:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-01-09 00:49:55 +0000"
@@ -1063,6 +1100,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-01-09 00:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/bundle": {
+    "criteria": {
+      "has_string": "2025-01-09 01:31:49 +0000"
     },
     "done": true
   },

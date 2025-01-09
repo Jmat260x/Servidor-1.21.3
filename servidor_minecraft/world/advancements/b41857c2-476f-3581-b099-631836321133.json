@@ -7,10 +7,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_birch_forest": "2025-01-09 01:31:57 +0000",
+      "minecraft:beach": "2025-01-09 01:25:45 +0000",
       "minecraft:forest": "2025-01-09 00:07:06 +0000",
       "minecraft:taiga": "2025-01-08 23:35:10 +0000",
+      "minecraft:ocean": "2025-01-09 01:27:41 +0000",
       "minecraft:sunflower_plains": "2025-01-09 01:22:29 +0000",
       "minecraft:river": "2025-01-09 00:44:06 +0000",
+      "minecraft:swamp": "2025-01-09 01:25:03 +0000",
+      "minecraft:windswept_hills": "2025-01-09 01:23:06 +0000",
       "minecraft:plains": "2025-01-09 00:48:08 +0000"
     },
     "done": false
@@ -567,6 +572,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-09 01:28:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-01-09 01:13:15 +0000"
@@ -630,6 +641,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-01-09 01:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-09 01:29:04 +0000"
     },
     "done": true
   },
@@ -1089,6 +1106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-01-09 01:28:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-01-09 01:13:15 +0000"
@@ -1164,8 +1187,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-09 00:59:08 +0000",
+      "minecraft:spider": "2025-01-09 01:32:22 +0000",
       "minecraft:zombie": "2025-01-09 00:19:12 +0000",
-      "minecraft:creeper": "2025-01-09 00:54:20 +0000"
+      "minecraft:creeper": "2025-01-09 00:54:20 +0000",
+      "minecraft:slime": "2025-01-09 01:29:04 +0000"
     },
     "done": false
   },
@@ -1211,6 +1236,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-09 01:28:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-01-09 01:13:15 +0000"
@@ -1220,6 +1251,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-09 00:18:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-09 01:29:04 +0000"
     },
     "done": true
   },
@@ -1403,6 +1440,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-09 01:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-01-09 01:27:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-09 00:10:34 +0000"
@@ -1467,7 +1516,8 @@
     "criteria": {
       "cooked_porkchop": "2025-01-09 01:15:06 +0000",
       "bread": "2025-01-09 00:50:26 +0000",
-      "rotten_flesh": "2025-01-09 00:20:11 +0000"
+      "rotten_flesh": "2025-01-09 00:20:11 +0000",
+      "porkchop": "2025-01-09 01:24:16 +0000"
     },
     "done": false
   },
@@ -1672,6 +1722,12 @@
   "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-09 00:28:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-09 01:29:04 +0000"
     },
     "done": true
   },
