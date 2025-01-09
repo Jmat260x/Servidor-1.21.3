@@ -513,6 +513,7 @@
     "criteria": {
       "minecraft:cave_spider": "2025-01-09 00:11:18 +0000",
       "minecraft:skeleton": "2025-01-08 23:55:39 +0000",
+      "minecraft:zombified_piglin": "2025-01-09 02:57:05 +0000",
       "minecraft:enderman": "2025-01-09 01:31:03 +0000",
       "minecraft:witch": "2025-01-09 00:26:06 +0000",
       "minecraft:spider": "2025-01-08 23:43:35 +0000",
@@ -1977,6 +1978,12 @@
   "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-09 02:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-09 02:59:41 +0000"
     },
     "done": true
   },
