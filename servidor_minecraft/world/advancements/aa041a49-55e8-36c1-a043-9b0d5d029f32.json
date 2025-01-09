@@ -1689,9 +1689,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-09 02:30:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-01-09 02:04:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-01-09 02:33:31 +0000"
     },
     "done": true
   },
@@ -1926,6 +1938,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-01-09 02:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-01-09 02:33:31 +0000"
     },
     "done": true
   },
