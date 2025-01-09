@@ -7,8 +7,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-01-09 01:35:07 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-09 01:31:57 +0000",
       "minecraft:beach": "2025-01-09 01:25:45 +0000",
+      "minecraft:dark_forest": "2025-01-09 01:34:27 +0000",
       "minecraft:forest": "2025-01-09 00:07:06 +0000",
       "minecraft:taiga": "2025-01-08 23:35:10 +0000",
       "minecraft:ocean": "2025-01-09 01:27:41 +0000",
@@ -380,6 +382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/suspicious_stew_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-09 01:49:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-09 00:28:05 +0000"
@@ -482,6 +490,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-09 01:36:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-09 00:46:58 +0000"
@@ -554,6 +568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-01-09 01:34:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-01-09 00:58:43 +0000"
@@ -599,6 +619,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-01-09 00:13:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-01-09 01:34:28 +0000"
     },
     "done": true
   },
@@ -902,9 +928,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-01-09 01:34:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-01-09 00:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-01-09 01:34:31 +0000"
     },
     "done": true
   },
@@ -974,6 +1012,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-09 01:36:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-01-09 01:16:03 +0000"
@@ -1007,6 +1051,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-09 00:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-09 01:34:31 +0000"
     },
     "done": true
   },
@@ -1076,6 +1126,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-09 01:52:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-01-09 01:12:01 +0000"
@@ -1124,6 +1180,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-09 01:36:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-01-09 00:55:14 +0000"
@@ -1151,6 +1213,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-01-09 00:13:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-01-09 01:34:31 +0000"
     },
     "done": true
   },
@@ -1193,6 +1261,12 @@
       "minecraft:slime": "2025-01-09 01:29:04 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-09 01:34:28 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
@@ -1272,6 +1346,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-09 01:49:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-01-09 01:21:53 +0000"
@@ -1329,6 +1409,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-09 00:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-09 01:34:31 +0000"
     },
     "done": true
   },
@@ -1464,6 +1550,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-09 01:34:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-01-09 00:19:52 +0000"
@@ -1517,9 +1609,16 @@
       "cooked_porkchop": "2025-01-09 01:15:06 +0000",
       "bread": "2025-01-09 00:50:26 +0000",
       "rotten_flesh": "2025-01-09 00:20:11 +0000",
+      "beef": "2025-01-09 01:47:13 +0000",
       "porkchop": "2025-01-09 01:24:16 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-01-09 01:34:31 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
@@ -1590,6 +1689,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-01-09 00:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-09 01:36:49 +0000"
     },
     "done": true
   },
@@ -1770,6 +1875,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-01-09 00:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-09 01:34:31 +0000"
     },
     "done": true
   },

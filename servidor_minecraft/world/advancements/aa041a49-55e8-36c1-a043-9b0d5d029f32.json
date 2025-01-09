@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:flower_forest": "2025-01-09 00:41:25 +0000",
+      "minecraft:beach": "2025-01-09 01:52:50 +0000",
       "minecraft:forest": "2025-01-08 23:45:06 +0000",
       "minecraft:taiga": "2025-01-08 23:30:29 +0000",
       "minecraft:sunflower_plains": "2025-01-09 00:40:50 +0000",
@@ -309,8 +310,10 @@
     "criteria": {
       "minecraft:blaze": "2025-01-09 01:27:48 +0000",
       "minecraft:skeleton": "2025-01-09 00:05:03 +0000",
+      "minecraft:spider": "2025-01-09 01:53:25 +0000",
       "minecraft:wither_skeleton": "2025-01-09 01:27:10 +0000",
-      "minecraft:zombie": "2025-01-08 23:43:00 +0000"
+      "minecraft:zombie": "2025-01-08 23:43:00 +0000",
+      "minecraft:creeper": "2025-01-09 01:49:57 +0000"
     },
     "done": false
   },
@@ -1544,6 +1547,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-09 02:00:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-01-09 01:14:09 +0000"
@@ -1605,6 +1614,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-09 01:16:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-01-09 01:38:29 +0000"
     },
     "done": true
   },
@@ -1695,6 +1710,18 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-09 01:16:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-09 02:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-09 02:03:33 +0000"
     },
     "done": true
   },
@@ -1824,6 +1851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-01-09 01:38:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-01-09 01:21:22 +0000"
@@ -1845,6 +1878,12 @@
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-01-09 01:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-09 02:03:33 +0000"
     },
     "done": true
   },
@@ -1899,6 +1938,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-01-09 01:16:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-01-09 01:38:29 +0000"
     },
     "done": true
   },
