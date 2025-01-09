@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-09 00:39:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-01-09 00:22:04 +0000"
@@ -329,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-01-09 00:39:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-01-08 23:47:05 +0000"
@@ -398,6 +410,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-01-08 23:48:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-01-09 00:39:30 +0000"
     },
     "done": true
   },
@@ -587,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-01-09 00:39:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-01-08 23:47:05 +0000"
@@ -602,6 +626,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-09 00:20:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-09 00:39:30 +0000"
     },
     "done": true
   },
@@ -824,8 +854,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-08 23:53:26 +0000",
+      "minecraft:enderman": "2025-01-09 00:34:03 +0000",
       "minecraft:spider": "2025-01-08 23:49:31 +0000",
-      "minecraft:zombie": "2025-01-08 23:48:51 +0000"
+      "minecraft:zombie": "2025-01-08 23:48:51 +0000",
+      "minecraft:drowned": "2025-01-09 00:34:48 +0000"
     },
     "done": false
   },
@@ -1140,6 +1172,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-01-08 23:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-09 00:39:30 +0000"
     },
     "done": true
   },
