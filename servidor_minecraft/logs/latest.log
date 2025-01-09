@@ -1,180 +1,93 @@
-[23:30:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:30:12] [ServerMain/INFO]: Loaded 1337 recipes
-[23:30:12] [ServerMain/INFO]: Loaded 1448 advancements
-[23:30:12] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[23:30:12] [Server thread/INFO]: Loading properties
-[23:30:12] [Server thread/INFO]: Default game type: SURVIVAL
-[23:30:12] [Server thread/INFO]: Generating keypair
-[23:30:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:30:12] [Server thread/INFO]: Using epoll channel type
-[23:30:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:30:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:30:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:30:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:30:12] [Server thread/INFO]: Preparing level "world"
-[23:30:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:30:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:30:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:30:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:30:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:30:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:30:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:30:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:30:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:30:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:30:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:30:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:30:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:30:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:30:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:30:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:30:20] [Server thread/INFO]: Time elapsed: 7481 ms
-[23:30:20] [Server thread/INFO]: Done (7.799s)! For help, type "help"
-[23:30:25] [Server thread/INFO]: xXwhiterXx[/127.60.253.97:38057] logged in with entity id 48 at (-4.5, 108.0, 4.5)
-[23:30:25] [Server thread/INFO]: xXwhiterXx joined the game
-[23:30:28] [Server thread/INFO]: Jmat_2[/127.31.58.135:48767] logged in with entity id 69 at (9.5, 95.0, -8.5)
-[23:30:28] [Server thread/INFO]: Jmat_2 joined the game
-[23:30:36] [Server thread/INFO]: Incorrect argument for command
-[23:30:36] [Server thread/INFO]: op op Jmat_2<--[HERE]
-[23:30:41] [Server thread/INFO]: xFACKSGAMERx[/127.143.108.247:44815] logged in with entity id 158 at (-5.5, 110.0, 5.5)
-[23:30:41] [Server thread/INFO]: xFACKSGAMERx joined the game
-[23:30:49] [Server thread/INFO]: Incorrect argument for command
-[23:30:49] [Server thread/INFO]: ...Jmat_"/op Jmat_2<--[HERE]
-[23:31:03] [Server thread/INFO]: Made Jmat_2 a server operator
-[23:31:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-12, y=109, z=8} jh{x=-12, y=108, z=8}
-[23:31:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-4, y=115, z=9} jh{x=-4, y=117, z=9}
-[23:31:10] [Server thread/INFO]: [Jmat_2: The difficulty has been set to Hard]
-[23:31:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-12, y=109, z=8} jh{x=-11, y=104, z=9}
-[23:31:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-4, y=115, z=9} jh{x=-4, y=117, z=9}
-[23:31:20] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-12, y=109, z=8} jh{x=-11, y=104, z=9}
-[23:31:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-12, y=109, z=8} jh{x=-10, y=105, z=9}
-[23:31:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-4, y=115, z=9} jh{x=-4, y=117, z=9}
-[23:31:31] [Server thread/INFO]: Vichoman14[/127.223.41.26:42133] logged in with entity id 556 at (10.5, 92.0, 10.5)
-[23:31:31] [Server thread/INFO]: Vichoman14 joined the game
-[23:31:48] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-12, y=109, z=0}
-[23:31:48] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-12, y=110, z=0}
-[23:31:48] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-12, y=109, z=0}
-[23:31:55] [Server thread/INFO]: xXwhiterXx has made the advancement [Stone Age]
-[23:32:01] [Server thread/INFO]: xXwhiterXx has made the advancement [Getting an Upgrade]
-[23:32:38] [Server thread/INFO]: xFACKSGAMERx has made the advancement [Stone Age]
-[23:32:53] [Server thread/INFO]: Rubentutumazho[/127.197.238.12:46301] logged in with entity id 1110 at (-2.5, 98.0, -6.5)
-[23:32:53] [Server thread/INFO]: Rubentutumazho joined the game
-[23:33:00] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-5, y=99, z=-6}
-[23:33:00] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-5, y=99, z=-4}
-[23:33:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=11, y=83, z=-13}
-[23:33:15] [Server thread/INFO]: xFACKSGAMERx has made the advancement [Getting an Upgrade]
-[23:33:25] [Server thread/INFO]: Jmat_2 has made the advancement [Stone Age]
-[23:33:26] [Server thread/INFO]: Vichoman14 has made the advancement [Stone Age]
-[23:33:38] [Server thread/INFO]: Jmat_2 has made the advancement [Getting an Upgrade]
-[23:33:48] [Server thread/INFO]: [Not Secure] <Rubentutumazho> ja
-[23:34:13] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-126, y=76, z=-34} jh{x=-126, y=75, z=-35}
-[23:34:16] [Server thread/INFO]: [Not Secure] <xFACKSGAMERx> perdon
-[23:34:21] [Server thread/INFO]: xFACKSGAMERx was doomed to fall by xXwhiterXx
-[23:34:35] [Server thread/INFO]: Rubentutumazho has made the advancement [Stone Age]
-[23:34:40] [Server thread/INFO]: Rubentutumazho has made the advancement [Getting an Upgrade]
-[23:34:42] [Server thread/INFO]: Vichoman14 has made the advancement [Getting an Upgrade]
-[23:34:47] [Server thread/INFO]: [Not Secure] <xXwhiterXx> - -
-[23:35:01] [Server thread/INFO]: [Not Secure] <xXwhiterXx> -128 /74/-38
-[23:35:09] [Server thread/INFO]: Emabuey[/127.98.54.231:59579] logged in with entity id 1949 at (-6.5, 106.0, 1.5)
-[23:35:09] [Server thread/INFO]: Emabuey joined the game
-[23:35:16] [Server thread/INFO]: [Not Secure] <Emabuey> hola
-[23:35:17] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
-[23:35:17] [Server thread/INFO]: Jmat_2 left the game
-[23:35:26] [Server thread/INFO]: [Not Secure] <Emabuey> se puede robar?
-[23:35:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-8, y=105, z=-10}
-[23:35:31] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-8, y=105, z=-10}
-[23:35:32] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-8, y=105, z=-10}
-[23:35:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-8, y=105, z=-10}
-[23:35:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-8, y=105, z=-9}
-[23:35:40] [Server thread/INFO]: [Not Secure] <xXwhiterXx> no
-[23:35:41] [Server thread/INFO]: [Not Secure] <Emabuey> no puedo romprer bloques
-[23:35:42] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-8, y=105, z=-10}
-[23:35:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-8, y=105, z=-10}
-[23:35:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-8, y=105, z=-10}
-[23:35:46] [Server thread/INFO]: [Not Secure] <xXwhiterXx> alejate del spawn
-[23:36:01] [Server thread/INFO]: [Not Secure] <Emabuey> entonces en este server no se puede hacer nada
-[23:37:25] [Server thread/INFO]: xXwhiterXx has made the advancement [Acquire Hardware]
-[23:37:27] [Server thread/INFO]: xFACKSGAMERx lost connection: Timed out
-[23:37:27] [Server thread/INFO]: xFACKSGAMERx left the game
-[23:37:27] [Server thread/WARN]: handleDisconnection() called twice
-[23:37:33] [Server thread/INFO]: xFACKSGAMERx[/127.143.108.247:54013] logged in with entity id 3144 at (-120.84277034615785, 50.0, -39.96246928930768)
-[23:37:33] [Server thread/INFO]: xFACKSGAMERx joined the game
-[23:38:00] [Server thread/INFO]: Leytter[/127.194.163.136:33233] logged in with entity id 3522 at (6.5, 100.0, -5.5)
-[23:38:00] [Server thread/INFO]: Leytter joined the game
-[23:38:06] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=8, y=95, z=8}
-[23:38:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=8, y=96, z=12}
-[23:38:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=7, y=96, z=11}
-[23:38:08] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=7, y=97, z=13}
-[23:38:08] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=7, y=97, z=14}
-[23:38:08] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=6, y=98, z=15}
-[23:38:08] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=6, y=98, z=15}
-[23:38:59] [Server thread/INFO]: Leytter has made the advancement [Stone Age]
-[23:39:09] [Server thread/INFO]: Leytter has made the advancement [Getting an Upgrade]
-[23:39:23] [Server thread/INFO]: [Not Secure] <Leytter> COMUNIDAD
-[23:39:32] [Server thread/INFO]: [Not Secure] <Emabuey> leyter
-[23:39:33] [Server thread/INFO]: [Not Secure] <xXwhiterXx> comunidad
-[23:39:37] [Server thread/INFO]: [Not Secure] <Emabuey> eres el admin?
-[23:39:44] [Server thread/INFO]: [Not Secure] <Leytter> Nop
-[23:39:48] [Server thread/INFO]: [Not Secure] <Emabuey> qauien es
-[23:39:54] [Server thread/INFO]: [Not Secure] <Leytter> no esta
-[23:40:01] [Server thread/INFO]: [Not Secure] <Leytter> jmat se llama
-[23:40:38] [Server thread/INFO]: [Not Secure] <Emabuey> en q dif esta
-[23:40:43] [Server thread/INFO]: [Not Secure] <xXwhiterXx> dificil
-[23:41:07] [Server thread/INFO]: Emabuey has made the advancement [Stone Age]
-[23:41:13] [Server thread/INFO]: Emabuey has made the advancement [Getting an Upgrade]
-[23:41:48] [Server thread/INFO]: [Not Secure] <Leytter> x2
-[23:41:55] [Server thread/INFO]: Jmat_2[/127.31.58.135:56251] logged in with entity id 9088 at (-95.21908524142376, 99.0, 23.69999998807907)
-[23:41:55] [Server thread/INFO]: Jmat_2 joined the game
-[23:41:56] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=91, y=64, z=141} jh{x=91, y=62, z=141}
-[23:41:56] [Server thread/INFO]: [Not Secure] <Rubentutumazho> 7/10
-[23:42:09] [Server thread/INFO]: [Not Secure] <Emabuey> es un SMP?
-[23:42:18] [Server thread/INFO]: [Not Secure] <Emabuey> o sea q todos somos team
-[23:42:39] [Server thread/INFO]: Rubentutumazho has made the advancement [Monster Hunter]
-[23:43:00] [Server thread/INFO]: Jmat_2 has made the advancement [Monster Hunter]
-[23:43:41] [Server thread/INFO]: [Not Secure] <Leytter> salganse y que uno duerma_
-[23:43:44] [Server thread/INFO]: [Not Secure] <Leytter> ?
-[23:43:50] [Server thread/INFO]: [Not Secure] <xXwhiterXx> yo tengo cama
-[23:43:53] [Server thread/INFO]: [Not Secure] <Rubentutumazho> creo que si todos estamos explorando a de ser por eso q va lento
-[23:43:55] [Server thread/INFO]: [Not Secure] <xFACKSGAMERx> YO TMB
-[23:43:58] [Server thread/INFO]: Leytter lost connection: Disconnected
-[23:43:58] [Server thread/INFO]: Leytter left the game
-[23:43:58] [Server thread/INFO]: xXwhiterXx has made the advancement [Sweet Dreams]
-[23:44:00] [Server thread/INFO]: [Not Secure] <Rubentutumazho> tengo
-[23:44:01] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
-[23:44:01] [Server thread/INFO]: Jmat_2 left the game
-[23:44:04] [Server thread/INFO]: [Not Secure] <Vichoman14> salganse los q no tienen cama
-[23:44:06] [Server thread/INFO]: Vichoman14 lost connection: Disconnected
-[23:44:06] [Server thread/INFO]: Vichoman14 left the game
-[23:44:11] [Server thread/INFO]: xFACKSGAMERx has made the advancement [Sweet Dreams]
-[23:44:11] [Server thread/INFO]: Rubentutumazho has made the advancement [Sweet Dreams]
-[23:44:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@a871f37[id=da4270cf-345f-3649-a3a7-f4052c8b0676,name=Leytter,properties={}] lost connection: Disconnected
-[23:44:17] [Server thread/INFO]: Emabuey lost connection: Disconnected
-[23:44:17] [Server thread/INFO]: Emabuey left the game
-[23:44:20] [Server thread/INFO]: Leytter[/127.194.163.136:53757] logged in with entity id 12860 at (123.69999998807907, 64.0, 103.60628415322243)
-[23:44:20] [Server thread/INFO]: Leytter joined the game
-[23:44:23] [Server thread/INFO]: Vichoman14[/127.223.41.26:46131] logged in with entity id 13090 at (859.7433451862977, 63.085764312744146, 671.0799921248449)
-[23:44:23] [Server thread/INFO]: Vichoman14 joined the game
-[23:44:24] [Server thread/WARN]: Vichoman14 moved too quickly! 0.0,-10.80652611000901,0.0
-[23:44:29] [Server thread/INFO]: Jmat_2[/127.31.58.135:40963] logged in with entity id 13289 at (-231.90949640730472, 70.0, 76.69999998807907)
-[23:44:29] [Server thread/INFO]: Jmat_2 joined the game
-[23:45:40] [Server thread/INFO]: xXwhiterXx has made the advancement [Isn't It Iron Pick]
-[23:45:53] [Server thread/INFO]: xFACKSGAMERx has made the advancement [Monster Hunter]
-[23:46:00] [Server thread/INFO]: [Not Secure] <Leytter> tt
-[23:47:06] [Server thread/INFO]: [Not Secure] <Rubentutumazho> no me dicen donde estan asi me hacerco
-[23:47:14] [Server thread/INFO]: xXwhiterXx has made the advancement [Hot Stuff]
-[23:47:35] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
-[23:47:35] [Server thread/INFO]: Jmat_2 left the game
-[23:47:49] [Server thread/INFO]: Jmat_2[/127.31.58.135:38169] logged in with entity id 18150 at (-119.69999998807907, 25.0, 229.31451376087213)
-[23:47:49] [Server thread/INFO]: Jmat_2 joined the game
-[23:47:54] [Server thread/INFO]: Jmat_2 was slain by Zombie
-[23:48:15] [Server thread/INFO]: xXwhiterXx was shot by Skeleton
-[23:48:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2126ms or 42 ticks behind
-[23:48:51] [Server thread/INFO]: xXwhiterXx has made the advancement [Monster Hunter]
-[23:48:55] [Server thread/INFO]: xXwhiterXx has made the advancement [Diamonds!]
-[23:49:00] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
-[23:49:00] [Server thread/INFO]: Jmat_2 left the game
-[23:49:03] [Server thread/INFO]: Jmat_2[/127.31.58.135:56385] logged in with entity id 20240 at (-29.09076300888829, 101.0, -1.5223737854118102)
-[23:49:03] [Server thread/INFO]: Jmat_2 joined the game
-[23:49:27] [Server thread/INFO]: [Not Secure] <Rubentutumazho> no buscaba una aldea y la encuentro
-[23:49:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=332, y=64, z=143} jh{x=332, y=62, z=145}
-[23:49:51] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=191, y=63, z=-412} jh{x=190, y=64, z=-413}
+[00:00:06] [Server thread/INFO]: Jmat_2 has made the advancement [Acquire Hardware]
+[00:00:37] [Server thread/INFO]: Jmat_2 has made the advancement [Isn't It Iron Pick]
+[00:02:16] [Server thread/INFO]: Emabuey[/127.98.54.231:57305] logged in with entity id 35177 at (-40.66871112220873, 34.0, 44.30000001192093)
+[00:02:16] [Server thread/INFO]: Emabuey joined the game
+[00:02:23] [Server thread/INFO]: Jmat_2 has made the advancement [Diamonds!]
+[00:02:24] [Server thread/INFO]: Rubentutumazho has made the advancement [Not Today, Thank You]
+[00:02:48] [Server thread/INFO]: Emabuey lost connection: Disconnected
+[00:02:48] [Server thread/INFO]: Emabuey left the game
+[00:03:17] [Server thread/INFO]: [Not Secure] <xXwhiterXx> -608 -6 -1237
+[00:03:46] [Server thread/INFO]: Leytter has made the advancement [Diamonds!]
+[00:04:10] [Server thread/INFO]: xFACKSGAMERx has made the advancement [Best Friends Forever]
+[00:04:49] [Server thread/INFO]: xFACKSGAMERx lost connection: Timed out
+[00:04:49] [Server thread/INFO]: xFACKSGAMERx left the game
+[00:04:49] [Server thread/WARN]: handleDisconnection() called twice
+[00:04:53] [Server thread/INFO]: Rubentutumazho has made the advancement [Suit Up]
+[00:05:00] [Server thread/INFO]: Jmat_2 has made the advancement [Not Today, Thank You]
+[00:05:14] [Server thread/INFO]: xFACKSGAMERx[/127.143.108.247:34519] logged in with entity id 38411 at (-8.29660158338331, 70.0, 651.4761190922109)
+[00:05:14] [Server thread/INFO]: xFACKSGAMERx joined the game
+[00:05:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[00:05:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3596ms or 71 ticks behind
+[00:06:18] [Server thread/INFO]: [Not Secure] <Leytter> DE PALOS
+[00:06:33] [Server thread/INFO]: Emabuey[/127.98.54.231:60939] logged in with entity id 40378 at (-40.66871112220873, 34.0, 44.30000001192093)
+[00:06:33] [Server thread/INFO]: Emabuey joined the game
+[00:07:09] [Server thread/INFO]: Leytter lost connection: Disconnected
+[00:07:09] [Server thread/INFO]: Leytter left the game
+[00:07:15] [Server thread/INFO]: luiscp[/127.125.92.32:38029] logged in with entity id 41291 at (-9.5, 106.0, -3.5)
+[00:07:15] [Server thread/INFO]: luiscp joined the game
+[00:07:20] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
+[00:07:20] [Server thread/INFO]: Jmat_2 left the game
+[00:07:20] [Server thread/INFO]: [Not Secure] <Emabuey> esoooo
+[00:07:23] [Server thread/INFO]: [Not Secure] <Emabuey> buena cpp
+[00:07:36] [Server thread/INFO]: [Not Secure] <luiscp> hola
+[00:07:38] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-15, y=109, z=2}
+[00:07:39] [Server thread/INFO]: [Not Secure] <Emabuey> te dejo
+[00:07:39] [Server thread/INFO]: [Not Secure] <xXwhiterXx> salganse para q duerman y sea de dia
+[00:07:40] [Server thread/INFO]: [Not Secure] <Emabuey> ?
+[00:07:44] [Server thread/INFO]: [Not Secure] <Emabuey> el ya sabes
+[00:07:47] [Server thread/INFO]: Leytter[/127.194.163.136:45181] logged in with entity id 41952 at (520.3155399911861, -16.203264399331307, 126.25132346244278)
+[00:07:47] [Server thread/INFO]: Leytter joined the game
+[00:07:51] [Server thread/INFO]: Leytter lost connection: Disconnected
+[00:07:51] [Server thread/INFO]: Leytter left the game
+[00:08:05] [Server thread/INFO]: [Not Secure] <Rubentutumazho> zzz o salgan un rato
+[00:08:07] [Server thread/INFO]: [Not Secure] <luiscp> no hay tpa
+[00:08:13] [Server thread/INFO]: [Not Secure] <xXwhiterXx> no, no hay aun
+[00:08:14] [Server thread/INFO]: [Not Secure] <xFACKSGAMERx> NIO
+[00:08:18] [Server thread/INFO]: [Not Secure] <xFACKSGAMERx> SALGANN
+[00:08:19] [Server thread/INFO]: [Not Secure] <xXwhiterXx> salganse para q sea de dia
+[00:08:21] [Server thread/INFO]: [Not Secure] <xXwhiterXx> o duerman
+[00:08:27] [Server thread/INFO]: [Not Secure] <xFACKSGAMERx> ZZZ O SE SALEN ASI SE HACE DE DIA
+[00:08:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-19, y=107, z=-4} jh{x=-2, y=112, z=16}
+[00:08:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-19, y=107, z=-4} jh{x=-2, y=113, z=16}
+[00:08:31] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-19, y=107, z=-4} jh{x=-2, y=112, z=16}
+[00:08:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-2, y=112, z=18} jh{x=-2, y=113, z=16}
+[00:08:38] [Server thread/INFO]: [Not Secure] <Emabuey> medio enfermo el fack
+[00:08:42] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-2, y=112, z=18} jh{x=-13, y=111, z=5}
+[00:08:42] [Server thread/INFO]: [Not Secure] <xFACKSGAMERx> chupa
+[00:08:43] [Server thread/INFO]: [Not Secure] <Emabuey> o no cp
+[00:08:43] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-2, y=112, z=18} jh{x=-15, y=109, z=2}
+[00:08:43] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-2, y=112, z=18} jh{x=-12, y=111, z=4}
+[00:08:54] [Server thread/INFO]: [Not Secure] <luiscp> nolose bro
+[00:08:56] [Server thread/INFO]: Vichoman14 lost connection: Disconnected
+[00:08:56] [Server thread/INFO]: Vichoman14 left the game
+[00:08:57] [Server thread/INFO]: Jmat_2[/127.31.58.135:40221] logged in with entity id 42919 at (451.3042631311103, -25.0, 105.96313845440935)
+[00:08:57] [Server thread/INFO]: Jmat_2 joined the game
+[00:09:00] [Server thread/INFO]: Leytter[/127.194.163.136:53715] logged in with entity id 43075 at (520.3155399911861, -17.0, 126.25132346244278)
+[00:09:00] [Server thread/INFO]: Leytter joined the game
+[00:09:01] [Server thread/INFO]: [Not Secure] <luiscp> no hate
+[00:09:01] [Server thread/INFO]: [Not Secure] <xFACKSGAMERx> delen
+[00:09:04] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-2, y=112, z=18} jh{x=-15, y=108, z=2}
+[00:09:08] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-2, y=112, z=18} jh{x=-15, y=108, z=2}
+[00:09:08] [Server thread/INFO]: [Not Secure] <xFACKSGAMERx> duerma
+[00:09:08] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-2, y=112, z=18} jh{x=-15, y=109, z=2}
+[00:09:08] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-2, y=112, z=18} jh{x=-15, y=108, z=2}
+[00:09:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
+[00:09:36] [Server thread/INFO]: [Not Secure] <luiscp> ema
+[00:09:38] [Server thread/INFO]: [Not Secure] <Emabuey> q
+[00:09:40] [Server thread/INFO]: [Not Secure] <luiscp> donde estay
+[00:09:44] [Server thread/INFO]: [Not Secure] <Emabuey> en la mina
+[00:09:50] [Server thread/INFO]: [Not Secure] <Emabuey> busca
+[00:09:51] [Server thread/INFO]: [Not Secure] <Emabuey> aldea
+[00:10:02] [Server thread/INFO]: luiscp fell from a high place
+[00:10:06] [Server thread/INFO]: [Not Secure] <Emabuey> la tryhardeamois
+[00:10:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=7, y=95, z=-9}
+[00:10:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=8, y=94, z=-9}
+[00:10:17] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=2, y=94, z=-10}
+[00:10:17] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=1, y=94, z=-11}
+[00:10:18] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=3, y=94, z=-12}
+[00:10:18] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=4, y=95, z=-12}
+[00:10:21] [Server thread/INFO]: xFACKSGAMERx has made the advancement [Suit Up]
+[00:10:27] [Server thread/INFO]: luiscp was doomed to fall by Zombie
+[00:10:34] [Server thread/INFO]: luiscp fell from a high place
+[00:10:40] [Server thread/INFO]: luiscp fell from a high place
+[00:10:50] [Server thread/INFO]: luiscp fell from a high place
