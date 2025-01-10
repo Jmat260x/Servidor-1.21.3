@@ -345,6 +345,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-01-09 00:38:27 +0000",
+      "bread": "2025-01-10 00:37:05 +0000",
       "rotten_flesh": "2025-01-09 00:09:36 +0000",
       "cooked_mutton": "2025-01-08 23:45:58 +0000",
       "sweet_berries": "2025-01-08 23:43:10 +0000",
@@ -1514,6 +1515,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2025-01-10 00:41:51 +0000",
       "minecraft:chicken": "2025-01-09 01:04:30 +0000",
       "minecraft:sheep": "2025-01-09 02:42:08 +0000"
     },
@@ -2348,6 +2350,42 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-01-09 02:52:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-01-10 00:40:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-10 00:40:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-01-10 00:40:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-10 00:40:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-01-10 00:40:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-10 00:40:32 +0000"
     },
     "done": true
   },
