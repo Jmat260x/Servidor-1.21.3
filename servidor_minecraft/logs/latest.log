@@ -1,45 +1,43 @@
-[00:00:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:00:28] [ServerMain/INFO]: Loaded 1337 recipes
-[00:00:28] [ServerMain/INFO]: Loaded 1448 advancements
-[00:00:29] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[00:00:29] [Server thread/INFO]: Loading properties
-[00:00:29] [Server thread/INFO]: Default game type: SURVIVAL
-[00:00:29] [Server thread/INFO]: Generating keypair
-[00:00:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:00:29] [Server thread/INFO]: Using epoll channel type
-[00:00:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:00:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:00:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:00:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:00:30] [Server thread/INFO]: Preparing level "world"
-[00:00:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:00:41] [Server thread/INFO]: Time elapsed: 11309 ms
-[00:00:41] [Server thread/INFO]: Done (11.853s)! For help, type "help"
-[00:01:41] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[00:01:48] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:01:48] [Server thread/INFO]: <--[HERE]
-[00:11:23] [Server thread/INFO]: Rubentutumazho[/127.51.173.29:45345] logged in with entity id 53 at (1991.1601783481628, 68.9375, 866.6999999880791)
-[00:11:23] [Server thread/INFO]: Rubentutumazho joined the game
+[00:26:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:26:27] [ServerMain/INFO]: Loaded 1337 recipes
+[00:26:27] [ServerMain/INFO]: Loaded 1448 advancements
+[00:26:27] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[00:26:27] [Server thread/INFO]: Loading properties
+[00:26:27] [Server thread/INFO]: Default game type: SURVIVAL
+[00:26:27] [Server thread/INFO]: Generating keypair
+[00:26:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:26:28] [Server thread/INFO]: Using epoll channel type
+[00:26:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:26:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:26:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:26:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:26:28] [Server thread/INFO]: Preparing level "world"
+[00:26:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:26:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:26:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:26:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:26:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:26:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:26:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:26:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:26:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:26:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:26:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:26:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:26:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:26:34] [Server thread/INFO]: Time elapsed: 5927 ms
+[00:26:34] [Server thread/INFO]: Done (6.273s)! For help, type "help"
+[00:27:34] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:28:35] [Server thread/INFO]: Rubentutumazho[/127.51.173.29:43285] logged in with entity id 48 at (1941.9751221386427, 66.9375, 942.5652314581281)
+[00:28:36] [Server thread/INFO]: Rubentutumazho joined the game
+[00:30:21] [Server thread/INFO]: vleytter[/127.194.163.136:57789] logged in with entity id 780 at (-5.5, 109.0, 4.5)
+[00:30:21] [Server thread/INFO]: vleytter joined the game
+[00:30:28] [Server thread/INFO]: [Not Secure] <vleytter> XD
+[00:30:38] [Server thread/INFO]: [Not Secure] <vleytter> como me llamaba?
+[00:30:52] [Server thread/INFO]: vleytter lost connection: Disconnected
+[00:30:52] [Server thread/INFO]: vleytter left the game
+[00:31:47] [Server thread/INFO]: Jmat_2[/127.31.58.135:55969] logged in with entity id 1502 at (1950.5058541576125, 65.9375, 889.3993324607407)
+[00:31:47] [Server thread/INFO]: Jmat_2 joined the game
+[00:33:26] [Server thread/INFO]: Leytter[/127.194.163.136:57027] logged in with entity id 1740 at (1944.2321733798028, 62.5625, 897.8487184503564)
+[00:33:26] [Server thread/INFO]: Leytter joined the game
+[00:33:39] [Server thread/INFO]: [Not Secure] <Leytter> e volvido
